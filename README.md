@@ -11,7 +11,7 @@
 
 <img src="https://img.icons8.com/color/32/000000/html-5--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/css3.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/javascript.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/postgreesql.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/git.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/github--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/32/000000/npm.png"/>
 
-:e-mail: Please feel free to **contact me** on any of my social media!
+:e-mail: Please feel free to **contact me**!
 
 [linkedin]: https://www.linkedin.com/in/asimregmi/
 [twitter]: https://twitter.com/asimregmi1998
