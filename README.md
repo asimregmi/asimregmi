@@ -1,4 +1,4 @@
-### Hi there, I'm [Asim](https://www.asimregmi.com/) :wave:
+### Hi there, I'm [Asim][website] :wave:
 
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />&nbsp;&nbsp;&nbsp;<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />&nbsp;&nbsp;&nbsp;<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
 
@@ -9,6 +9,9 @@
 - I love traveling and hiking
 
 [linkedin]: https://www.linkedin.com/in/asimregmi/
+[twitter]: https://twitter.com/asimregmi1998
+[github]: https://github.com/asimregmi
+[website]: https://www.asimregmi.com/
 
 
 
