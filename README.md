@@ -1,6 +1,6 @@
 ### Hi there, I'm [Asim][website] :wave:
 
-[<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]&nbsp;&nbsp;&nbsp;[<img height="32" width="32" src="https://img.icons8.com/wired/64/000000/domain.png"/>][website]&nbsp;&nbsp;&nbsp;[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]&nbsp;&nbsp;&nbsp;[<img height="32" width="32" src="https://img.icons8.com/dusk/64/000000/domain.png"/>][website]&nbsp;&nbsp;&nbsp;[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
 
 ## I'm a CS Sophomore, and Developer!
 - I'm an undergraduate at **The University of Texas at Arlington**
