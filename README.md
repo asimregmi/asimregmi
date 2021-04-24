@@ -8,7 +8,7 @@
 - My 2021 goal is to build more projects
 - I love traveling and hiking
 
-
+[linkedin]: https://www.linkedin.com/in/asimregmi/
 
 
 
