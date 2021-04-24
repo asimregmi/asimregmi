@@ -7,6 +7,10 @@
 - :floppy_disk: My 2021 goal is to build more projects
 - :airplane: I love traveling and hiking
 
+#### Tools and Tech stack
+
+<img src="https://img.icons8.com/color/32/000000/html-5--v1.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/32/000000/css3.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/32/000000/npm.png"/>
+
 [linkedin]: https://www.linkedin.com/in/asimregmi/
 [twitter]: https://twitter.com/asimregmi1998
 [github]: https://github.com/asimregmi
