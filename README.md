@@ -1,6 +1,6 @@
 ### Hi there, I'm [Asim][website] :wave:
 
-[<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]&nbsp;&nbsp;[<img height="30" width="30" src="https://img.icons8.com/dusk/64/000000/domain.png"/>][website]&nbsp;&nbsp;[<img height="32" width="32" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
+[<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]&nbsp;&nbsp;[<img height="32" width="32" src="https://img.icons8.com/fluent/64/000000/domain.png"/>][website]&nbsp;&nbsp;[<img height="32" width="32" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>][twitter]
 <hr>
 
 ## I'm a CS Sophomore, and Developer!
