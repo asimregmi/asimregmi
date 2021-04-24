@@ -1,6 +1,6 @@
 ## Hi there, I am Asim :wave:
 
-<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />&nbsp; &nbsp; &nbsp;<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />&nbsp; &nbsp; &nbsp;<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />&nbsp;&nbsp;&nbsp;<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />&nbsp;&nbsp;&nbsp;<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
 
 
 <!---
