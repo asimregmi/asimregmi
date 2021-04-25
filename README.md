@@ -2,8 +2,6 @@
 
 [<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]&nbsp;&nbsp;[<img height="32" width="32" src="https://img.icons8.com/color/64/000000/domain.png"/>][website]&nbsp;&nbsp;[<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 
-<hr>
-
 ### :mortar_board: CS Sophomore | :desktop_computer: Developer | :earth_americas: Arlington, TX
 - :school: I'm an undergraduate at **The University of Texas at Arlington**
 - :computer: I'm learning and improving my skills as a **Full-stack Developer**
