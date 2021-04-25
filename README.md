@@ -14,8 +14,6 @@
 
 <hr>
 
-### Please find my projects below
-
 [linkedin]: https://www.linkedin.com/in/asimregmi/
 [twitter]: https://twitter.com/asimregmi1998
 [github]: https://github.com/asimregmi
