@@ -5,7 +5,7 @@
 ### :mortar_board: CS Junior | :desktop_computer: Developer | :earth_americas: Arlington, TX
 - :school: I'm an undergraduate at **The University of Texas at Arlington**
 - :computer: I'm learning and improving my skills as a **Full-stack Developer**
-- :floppy_disk: My 2021 goal is to build more projects
+- :floppy_disk: My 2022 goal is to build more projects
 - :airplane: I love traveling and hiking
 - :e-mail: Please feel free to contact me at **regmiasim11@gmail.com**
 
