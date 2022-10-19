@@ -1,4 +1,4 @@
-### Hi there, I'm [Asim][website] :man::wave:
+### Hi there, I'm [Asim] :man::wave:
 
 [<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]&nbsp;&nbsp;
 
