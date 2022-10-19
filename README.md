@@ -1,4 +1,4 @@
-### Hi there, I'm Asim! I am a CS Senior at The University of Texas at Arlington. Let's connect on my [LinkedIn][Linkedin] [<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin] :man::wave:
+### Hi there, I'm Asim! I am a CS Senior at The University of Texas at Arlington. Connect with me on [LinkedIn][Linkedin] :man::wave:
 
 [linkedin]: https://www.linkedin.com/in/asimregmi/
 [github]: https://github.com/asimregmi
