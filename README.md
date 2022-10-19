@@ -1,8 +1,4 @@
-### Hi there, I'm [Asim] :man::wave:
-
-[<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]&nbsp;&nbsp;
-
-### :mortar_board: CS Senior | :earth_americas: Arlington, TX
+### Hi there, I'm Asim! I am a CS Senior at The University of Texas at Arlington. Let's connect on my [<img height="32" width="32" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin] :man::wave:
 
 [linkedin]: https://www.linkedin.com/in/asimregmi/
 [github]: https://github.com/asimregmi
