@@ -1,8 +1,10 @@
-# Hello! Welcome to my GitHub. 
+# Howdy! 
 
-I am Asim, a recent CS grad from The University of Texas at Arlington. You can view some of my projects below. 
+Welcome to my GitHub.
 
-If you would like to connect with me, please see my [LinkedIn][Linkedin] :man::wave:
+I am Asim, a Software Engineer based in Austin, Texas. 
+
+Connect with me on [LinkedIn][Linkedin] :man::wave:
 
 [linkedin]: https://www.linkedin.com/in/asimregmi/
 [github]: https://github.com/asimregmi
@@ -10,10 +12,4 @@ If you would like to connect with me, please see my [LinkedIn][Linkedin] :man::w
 
 
 
-
-
-<!---
-asimregmi/asimregmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
